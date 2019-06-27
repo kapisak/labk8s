@@ -15,4 +15,4 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: mginx
+        image: mginx1
