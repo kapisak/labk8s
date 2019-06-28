@@ -11,7 +11,7 @@ spec:
   template:
     metadata:
       labels:
-    	env: prod
+        env: prod
         tier: backend
     spec:
       containers:
